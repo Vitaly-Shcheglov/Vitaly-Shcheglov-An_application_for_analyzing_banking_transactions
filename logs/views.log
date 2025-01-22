@@ -1,0 +1,36 @@
+2025-01-21 15:51:46,530 - views - INFO - Начало обработки файла: C:\Users\User\AppData\Local\Temp\pytest-of-User\pytest-1\test_main_page_valid_data0\transactions.json
+2025-01-21 15:51:46,536 - views - INFO - Файл обработан. Найдено транзакций: 3
+2025-01-21 15:51:46,538 - views - INFO - Начало обработки файла: C:\Users\User\AppData\Local\Temp\pytest-of-User\pytest-1\test_main_page_file_not_found0\transactions.json
+2025-01-21 15:51:46,538 - views - ERROR - Файл C:\Users\User\AppData\Local\Temp\pytest-of-User\pytest-1\test_main_page_file_not_found0\transactions.json не найден.
+2025-01-21 15:51:46,540 - views - INFO - Начало обработки файла: C:\Users\User\AppData\Local\Temp\pytest-of-User\pytest-1\test_main_page_empty_data0\transactions.json
+2025-01-21 15:51:46,541 - views - INFO - Файл обработан. Найдено транзакций: 0
+2025-01-21 15:58:22,521 - views - INFO - Начало обработки файла: C:\Users\User\AppData\Local\Temp\pytest-of-User\pytest-2\test_main_page_valid_data0\transactions.json
+2025-01-21 15:58:22,522 - views - INFO - Файл обработан. Найдено транзакций: 3
+2025-01-21 15:58:22,524 - views - INFO - Начало обработки файла: C:\Users\User\AppData\Local\Temp\pytest-of-User\pytest-2\test_main_page_file_not_found0\transactions.json
+2025-01-21 15:58:22,524 - views - ERROR - Файл C:\Users\User\AppData\Local\Temp\pytest-of-User\pytest-2\test_main_page_file_not_found0\transactions.json не найден.
+2025-01-21 15:58:22,526 - views - INFO - Начало обработки файла: C:\Users\User\AppData\Local\Temp\pytest-of-User\pytest-2\test_main_page_empty_data0\transactions.json
+2025-01-21 15:58:22,526 - views - INFO - Файл обработан. Найдено транзакций: 0
+2025-01-21 15:59:14,781 - views - INFO - Начало обработки файла: C:\Users\User\AppData\Local\Temp\pytest-of-User\pytest-3\test_main_page_valid_data0\transactions.json
+2025-01-21 15:59:14,782 - views - INFO - Файл обработан. Найдено транзакций: 3
+2025-01-21 15:59:14,783 - views - INFO - Начало обработки файла: C:\Users\User\AppData\Local\Temp\pytest-of-User\pytest-3\test_main_page_file_not_found0\transactions.json
+2025-01-21 15:59:14,783 - views - ERROR - Файл C:\Users\User\AppData\Local\Temp\pytest-of-User\pytest-3\test_main_page_file_not_found0\transactions.json не найден.
+2025-01-21 15:59:14,786 - views - INFO - Начало обработки файла: C:\Users\User\AppData\Local\Temp\pytest-of-User\pytest-3\test_main_page_empty_data0\transactions.json
+2025-01-21 15:59:14,786 - views - INFO - Файл обработан. Найдено транзакций: 0
+2025-01-21 16:08:28,715 - views - INFO - Начало обработки файла: C:\Users\User\AppData\Local\Temp\pytest-of-User\pytest-4\test_main_page_valid_data0\transactions.json
+2025-01-21 16:08:28,716 - views - INFO - Файл обработан. Найдено транзакций: 3
+2025-01-21 16:08:28,719 - views - INFO - Начало обработки файла: C:\Users\User\AppData\Local\Temp\pytest-of-User\pytest-4\test_main_page_file_not_found0\transactions.json
+2025-01-21 16:08:28,719 - views - ERROR - Файл C:\Users\User\AppData\Local\Temp\pytest-of-User\pytest-4\test_main_page_file_not_found0\transactions.json не найден.
+2025-01-21 16:08:28,722 - views - INFO - Начало обработки файла: C:\Users\User\AppData\Local\Temp\pytest-of-User\pytest-4\test_main_page_empty_data0\transactions.json
+2025-01-21 16:08:28,722 - views - INFO - Файл обработан. Найдено транзакций: 0
+2025-01-22 09:28:22,639 - views - INFO - Начало обработки файла: C:\Users\User\AppData\Local\Temp\pytest-of-User\pytest-5\test_main_page_valid_data0\transactions.json
+2025-01-22 09:28:22,644 - views - INFO - Файл обработан. Найдено транзакций: 3
+2025-01-22 09:28:22,647 - views - INFO - Начало обработки файла: C:\Users\User\AppData\Local\Temp\pytest-of-User\pytest-5\test_main_page_file_not_found0\transactions.json
+2025-01-22 09:28:22,647 - views - ERROR - Файл C:\Users\User\AppData\Local\Temp\pytest-of-User\pytest-5\test_main_page_file_not_found0\transactions.json не найден.
+2025-01-22 09:28:22,649 - views - INFO - Начало обработки файла: C:\Users\User\AppData\Local\Temp\pytest-of-User\pytest-5\test_main_page_empty_data0\transactions.json
+2025-01-22 09:28:22,649 - views - INFO - Файл обработан. Найдено транзакций: 0
+2025-01-22 09:29:18,966 - views - INFO - Начало обработки файла: C:\Users\User\AppData\Local\Temp\pytest-of-User\pytest-6\test_main_page_valid_data0\transactions.json
+2025-01-22 09:29:18,967 - views - INFO - Файл обработан. Найдено транзакций: 3
+2025-01-22 09:29:18,968 - views - INFO - Начало обработки файла: C:\Users\User\AppData\Local\Temp\pytest-of-User\pytest-6\test_main_page_file_not_found0\transactions.json
+2025-01-22 09:29:18,968 - views - ERROR - Файл C:\Users\User\AppData\Local\Temp\pytest-of-User\pytest-6\test_main_page_file_not_found0\transactions.json не найден.
+2025-01-22 09:29:18,970 - views - INFO - Начало обработки файла: C:\Users\User\AppData\Local\Temp\pytest-of-User\pytest-6\test_main_page_empty_data0\transactions.json
+2025-01-22 09:29:18,970 - views - INFO - Файл обработан. Найдено транзакций: 0
